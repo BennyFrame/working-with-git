@@ -19,7 +19,7 @@ const char* Gabe(void) {
 }
 
 const char* Gustavo(void) {
-  return "/*Type something here*/";
+  return "I'm surprisingly doing this assignment before the due deadline.";
 }
 
 const char* Jacob(void) {
