@@ -39,7 +39,7 @@ const char* Nick(void) {
 }
 
 const char* Sebastian(void) {
-  return "/*Type something here*/";
+  return "Hi, it is nice to see you all every Monday at least through Zoom. Good luck everyone with your research!!";
 }
 
 const char* Yun(void) {
