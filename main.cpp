@@ -47,7 +47,7 @@ const char* Yun(void) {
 }
 
 const char* Zahra(void) {
-  return "/*Type something here*/";
+  return "/I like C++/";
 }
 
 const char* Zarak(void) {
