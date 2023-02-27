@@ -36,7 +36,7 @@ const char* Minjie(void) {
 }
 
 const char* Nick(void) {
-  return "/*Type something here*/";
+  return "ut tensio, sic vis; as the extension, so the force -RH";
 }
 
 const char* Sebastian(void) {
