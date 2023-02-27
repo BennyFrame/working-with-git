@@ -12,7 +12,7 @@ const char* Barb(void) {
 }
 
 const char* Bryam(void) {
-  return "/*Type something here*/";
+  return "Hi. -Bryam";
 }
 
 const char* Gabe(void) {
