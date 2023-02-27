@@ -51,7 +51,7 @@ const char* Zahra(void) {
 }
 
 const char* Zarak(void) {
-  return "/*Type something here*/";
+  return "/A rainy Friday is still better than a sunny Monday/";
 }
 
 
