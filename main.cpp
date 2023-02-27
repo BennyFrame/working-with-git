@@ -3,7 +3,8 @@
 using namespace std;
 
 const char* Akiri(void) {
-  return "/*Type something here*/";
+
+  return "A robot may not injure a human being, or, through inaction, allow a human being to come to harm. - The first law of Robotics -";
 }
 
 const char* Barb(void) {
